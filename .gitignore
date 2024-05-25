@@ -1,0 +1,10 @@
+/__pycache__
+/profile
+/venv
+/.idea/.gitignore
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/playwright_auto.iml
+/auto/__pycache__/__init__.cpython-39.pyc
+/wallet/__pycache__/__init__.cpython-39.pyc
